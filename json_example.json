@@ -1,0 +1,11 @@
+{
+    "name": "Eduardo",
+    "lastname" : "Escofet",
+    "age" : 45,
+    "email" : "eduardo.escofet@formadoresfreelance.es",
+    "hobbies" : [
+        "books",
+        "movies",
+        "undisclosed"
+    ]
+}
